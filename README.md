@@ -1,23 +1,25 @@
-## Hey There 👋
+##👋 Hi
 
-I'm Jerson, a back--end developer based in Philippines.
+I'm Jerson, Backend Developer based in the Philippines 
 
-I develop and build websites that relates to my hobbies.
+I build most of my projects revolve around systems related to my interests and hobbies.
 
-My main tech stacks are c#, asp net, react, tailwind, and a little bit of typescript and javascript.
+🚀 Tech Stack
 
+Backend: C#, ASP.NET Core, Entity Framework
 
-<!--
-**GitJerson/GitJerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend: React, Tailwind CSS
 
-Here are some ideas to get you started:
+Languages: TypeScript, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database: SQL Server 
+
+Tools: Git, REST APIs, JWT Auth
+
+🎯 Currently Working On
+
+Improving system design skills
+
+Writing cleaner, more maintainable backend code
+
+Practicing DSA & problem solving
