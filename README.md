@@ -1,4 +1,4 @@
-##👋 Hi
+Hi There 👋 
 
 I'm Jerson, Backend Developer based in the Philippines 
 
