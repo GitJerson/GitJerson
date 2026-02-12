@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey There 👋
+
+##I'm Jerson, a back--end developer based in Philippines.
+
+## I develop and build websites that relates to my hobbies.
+
+##My main tech stacks are c#, asp net, react, tailwind, and a little bit of typescript and javascript.
+
 
 <!--
 **GitJerson/GitJerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
