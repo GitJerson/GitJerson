@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Jerson, an aspiring Backend developer based in the Cebu City, Philippines. I love<br>building applications that revolves around my interests and hobbies. I mostly worked with<br>.asp net projects following MVC design for frontend architecture and using Repository-<br>Service-based pattern for my backend architecture. Right now, I've been learning project<br>that uses CORS and deployment-ready projects which have been bumpy but fun. As of <br>March 13 2026, I've deployed at least 3 applications for school projects.<br><br>Here's my current tech stack:<br><br>Backend: C#, ASP.NET Core, Entity Framework<br><br>Frontend: React, Tailwind CSS, HTML5, CSS3<br><br>Languages: TypeScript, JavaScript<br><br>Database: SQL Server, PostgreSQL<br><br>Tools: Git, REST APIs, JWT Auth 
+Hi, I'm Jerson, an aspiring Backend developer based in the Cebu City, Philippines. I love<br>building applications that revolves around my interests and hobbies. I mostly worked with<br>.asp net projects following MVC design for frontend architecture and using Repository-<br>Service-based pattern for my backend architecture. Right now, I've been learning project<br>that uses CORS and deployment-ready projects which have been bumpy but fun. As of <br>March 13 2026, I've deployed at least 3 applications for school projects.<br><br>
 
 
 ## 🌐 Socials:
