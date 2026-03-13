@@ -10,12 +10,9 @@ Hi, I'm Jerson, an aspiring Backend developer based in the Cebu City, Philippine
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GitJerson&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GitJerson&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitJerson&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=GitJerson&icon=7&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
