@@ -92,29 +92,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vargasjersonprogs&theme=github_dark" alt="Profile Summary">
-</td>
-</tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/vargasjersonprogs?cardType=level&theme=github_dark" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="410em" src="https://nirzak-streak-stats.vercel.app/?user=vargasjersonprogs&theme=github-dark-blue" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vargasjersonprogs)
