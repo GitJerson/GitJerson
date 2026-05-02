@@ -1,9 +1,128 @@
-# 💫 About Me:
-Hi, I'm Jerson, an aspiring Backend developer based in the Cebu City, Philippines. I love<br>building applications that revolves around my interests and hobbies. I mostly worked with<br>.asp net projects following MVC design for frontend architecture and using Repository-<br>Service-based pattern for my backend architecture. Right now, I've been learning project<br>that uses CORS and deployment-ready projects which have been bumpy but fun. As of <br>March 13 2026, I've deployed at least 3 applications for school projects.<br><br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vargasjersonprogs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+<h1 align="center">Hi there, I'm <a href="https://linkedin.com/in/vargasjersonprogs">Jerson Vargas</a> 👋</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vargasjersonprogs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jersonvargas471@gmail.com) 
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Profile Image"
+     width="300"/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 🌱 **Currently learning Go & building backend systems**
+- ⚡ About Me: **Persistent builder, always shipping**
+- 💎 Value **clean architecture, real-world projects, and continuous growth**
+- 📈 Skills: **C#, ASP.NET, Go, REST APIs, PostgreSQL, React**
+- 📫 Reach Me At: [jersonvargas471@gmail.com](mailto:jersonvargas471@gmail.com)
+- 📍 **Location:** Cebu City, Philippines 🇵🇭
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+<details><summary>🚀 Projects</summary>
+  <br/>
+  <table width="100%">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vargasjersonprogs/webhook-dispatcher">Webhook Dispatcher</a></td>
+      <td>A production-grade webhook delivery system with retry logic, JWT auth, and rate limiting — built as a Go learning vehicle.</td>
+      <td>Go · PostgreSQL · React/TS · Docker</td>
+    </tr>
+    <tr>
+      <td>School Deployments</td>
+      <td>3+ deployed applications built with ASP.NET Web API following Repository-Service pattern with MVC frontend architecture.</td>
+      <td>C# · ASP.NET · SQL Server · Render</td>
+    </tr>
+  </table>
+</details>
+
+<details><summary>🏅 Certifications & Learning</summary>
+  <br/>
+  <table width="100%">
+    <tr>
+      <th>Area</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td>Backend Development (Go)</td>
+      <td>🟡 In Progress</td>
+    </tr>
+    <tr>
+      <td>DevOps & Docker</td>
+      <td>🟡 In Progress</td>
+    </tr>
+    <tr>
+      <td>ASP.NET Web API</td>
+      <td>✅ Practiced in production</td>
+    </tr>
+  </table>
+</details>
+
+<br/>
+
+## 💻 Tech Stack
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vargasjersonprogs&theme=github_dark" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/vargasjersonprogs?cardType=level&theme=github_dark" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="410em" src="https://nirzak-streak-stats.vercel.app/?user=vargasjersonprogs&theme=github-dark-blue" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vargasjersonprogs)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jersonvargas471@gmail.com)
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
+
