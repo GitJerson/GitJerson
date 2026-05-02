@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GitJerson/GitJerson/main/art.gif" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/GitJerson/GitJerson/main/art.gif" width="35%" alt="Banner"/>
 </div>
 
 <p align="left">
