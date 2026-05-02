@@ -36,11 +36,6 @@
       <th>Stack</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/GitJerson/webhook-dispatcher">Webhook Dispatcher</a></td>
-      <td>A production-grade webhook delivery system with retry logic, JWT auth, and rate limiting — built as a Go learning vehicle.</td>
-      <td>Go · PostgreSQL · React/TS · Docker</td>
-    </tr>
-    <tr>
       <td>School Deployments</td>
       <td>3+ deployed applications built with ASP.NET Web API following Repository-Service pattern with MVC frontend architecture.</td>
       <td>C# · ASP.NET · SQL Server · Render</td>
