@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GitJerson/GitJerson/main/art.gif" width="100%" alt="Banner"/>
+</div>
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vargasjersonprogs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GitJerson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://linkedin.com/in/vargasjersonprogs">Jerson Vargas</a> 👋</h1>
@@ -10,9 +14,9 @@
      width="300"/>
 
 - 🌱 **Currently learning Go & building backend systems**
-- ⚡ About Me: **Likes to build stuff**
+- ⚡ About Me: **Persistent builder, always shipping**
 - 💎 Value **clean architecture, real-world projects, and continuous growth**
-- 📈 Skills: **C#, ASP.NET, REST APIs, PostgreSQL, React**
+- 📈 Skills: **C#, ASP.NET, Go, REST APIs, PostgreSQL, React**
 - 📫 Reach Me At: [jersonvargas471@gmail.com](mailto:jersonvargas471@gmail.com)
 - 📍 **Location:** Cebu City, Philippines 🇵🇭
 
@@ -32,7 +36,7 @@
       <th>Stack</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/vargasjersonprogs/webhook-dispatcher">Webhook Dispatcher</a></td>
+      <td><a href="https://github.com/GitJerson/webhook-dispatcher">Webhook Dispatcher</a></td>
       <td>A production-grade webhook delivery system with retry logic, JWT auth, and rate limiting — built as a Go learning vehicle.</td>
       <td>Go · PostgreSQL · React/TS · Docker</td>
     </tr>
@@ -92,6 +96,29 @@
 
 <br/>
 
+## 📊 GitHub Stats
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitJerson&theme=github_dark" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/GitJerson?cardType=level&theme=github_dark" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="410em" src="https://nirzak-streak-stats.vercel.app/?user=GitJerson&theme=github-dark-blue" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vargasjersonprogs)
@@ -102,4 +129,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
-
