@@ -10,9 +10,9 @@
      width="300"/>
 
 - 🌱 **Currently learning Go & building backend systems**
-- ⚡ About Me: **Persistent builder, always shipping**
+- ⚡ About Me: **Likes to build stuff**
 - 💎 Value **clean architecture, real-world projects, and continuous growth**
-- 📈 Skills: **C#, ASP.NET, Go, REST APIs, PostgreSQL, React**
+- 📈 Skills: **C#, ASP.NET, REST APIs, PostgreSQL, React**
 - 📫 Reach Me At: [jersonvargas471@gmail.com](mailto:jersonvargas471@gmail.com)
 - 📍 **Location:** Cebu City, Philippines 🇵🇭
 
