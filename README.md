@@ -14,9 +14,9 @@
      width="300"/>
 
 - 🌱 **Currently learning Go & building backend systems**
-- ⚡ About Me: **Persistent builder, always shipping**
+- ⚡ About Me: **Likes to build things revolving my hobbies and interests**
 - 💎 Value **clean architecture, real-world projects, and continuous growth**
-- 📈 Skills: **C#, ASP.NET, Go, REST APIs, PostgreSQL, React**
+- 📈 Skills: **C#, ASP.NET, REST APIs, PostgreSQL, React**
 - 📫 Reach Me At: [jersonvargas471@gmail.com](mailto:jersonvargas471@gmail.com)
 - 📍 **Location:** Cebu City, Philippines 🇵🇭
 
@@ -102,17 +102,6 @@
 <tr>
 <td>
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitJerson&theme=github_dark" alt="Profile Summary">
-</td>
-</tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/GitJerson?cardType=level&theme=github_dark" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="410em" src="https://nirzak-streak-stats.vercel.app/?user=GitJerson&theme=github-dark-blue" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
