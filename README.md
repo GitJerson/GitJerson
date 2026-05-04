@@ -16,7 +16,7 @@
 - 🌱 **Currently learning Go & building backend systems**
 - ⚡ About Me: **Likes to build things revolving my hobbies and interests**
 - 💎 Value **clean architecture, real-world projects, and continuous growth**
-- 📈 Skills: **C#, ASP.NET, REST APIs, PostgreSQL, React**
+- 📈 Skills: **C#, ASP.NET, PostgreSQL, MSSQL**
 - 📫 Reach Me At: [jersonvargas471@gmail.com](mailto:jersonvargas471@gmail.com)
 - 📍 **Location:** Cebu City, Philippines 🇵🇭
 
@@ -37,13 +37,13 @@
     </tr>
     <tr>
       <td>School Deployments</td>
-      <td>3+ deployed applications built with ASP.NET Web API following Repository-Service pattern with MVC frontend architecture.</td>
+      <td>Experienced deployments on 3+ applications built with ASP.NET Web API following Repository-Service pattern for backend and feature-based architecture for frontend.</td>
       <td>C# · ASP.NET · SQL Server · Render</td>
     </tr>
   </table>
 </details>
 
-<details><summary>🏅 Certifications & Learning</summary>
+<details><summary>🏅Completed Learnings</summary>
   <br/>
   <table width="100%">
     <tr>
@@ -51,12 +51,8 @@
       <th>Status</th>
     </tr>
     <tr>
-      <td>Backend Development (Go)</td>
-      <td>🟡 In Progress</td>
-    </tr>
-    <tr>
-      <td>DevOps & Docker</td>
-      <td>🟡 In Progress</td>
+      <td>Cors(Go)</td>
+      <td>✅ cOMPLETED</td>
     </tr>
     <tr>
       <td>ASP.NET Web API</td>
@@ -71,7 +67,6 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -85,9 +80,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 <br/>
 
@@ -107,9 +99,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vargasjersonprogs)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jersonvargas471@gmail.com)
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
-</p>
