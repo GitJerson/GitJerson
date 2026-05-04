@@ -16,7 +16,7 @@
 - 🌱 **Currently learning Go & building backend systems**
 - ⚡ About Me: **Likes to build things revolving my hobbies and interests**
 - 💎 Value **clean architecture, real-world projects, and continuous growth**
-- 📈 Skills: **C#, ASP.NET, PostgreSQL, MSSQL**
+- 📈 Top Skills: **C#, .NET, MSSQL**
 - 📫 Reach Me At: [jersonvargas471@gmail.com](mailto:jersonvargas471@gmail.com)
 - 📍 **Location:** Cebu City, Philippines 🇵🇭
 
@@ -52,11 +52,11 @@
     </tr>
     <tr>
       <td>Cors(Go)</td>
-      <td>✅ cOMPLETED</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>ASP.NET Web API</td>
-      <td>✅ Practiced in production</td>
+      <td>✅</td>
     </tr>
   </table>
 </details>
