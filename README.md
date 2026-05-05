@@ -37,8 +37,8 @@
     </tr>
     <tr>
       <td>School Deployments</td>
-      <td>Experienced deployments on 3+ applications built with ASP.NET Web API following Repository-Service pattern for backend and feature-based architecture for frontend.</td>
-      <td>C# · ASP.NET · SQL Server · Render</td>
+      <td>Experienced deployments on 1+ applications built with ASP.NET Web API following Repository-Service pattern for backend and feature-based architecture for frontend.</td>
+      <td>C# · ASP.NET WEB API · POSTGRESQL · REACT · TAILWIND · CAPACITOR · RENDER · VERCEL · RAILWAY</td>
     </tr>
   </table>
 </details>
