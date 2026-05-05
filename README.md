@@ -43,24 +43,6 @@
   </table>
 </details>
 
-<details><summary>🏅Completed Learnings</summary>
-  <br/>
-  <table width="100%">
-    <tr>
-      <th>Area</th>
-      <th>Status</th>
-    </tr>
-    <tr>
-      <td>Cors(Go)</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>ASP.NET Web API</td>
-      <td>✅</td>
-    </tr>
-  </table>
-</details>
-
 <br/>
 
 ## 💻 Tech Stack
