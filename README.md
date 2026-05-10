@@ -14,8 +14,7 @@ Currently learning Go and building backend systems.<br />
 
 ---
 
-## About
-
+### About
 Top skills: C#, .NET, MSSQL
 
 Contact: jersonvargas471@gmail.com
@@ -25,7 +24,6 @@ LinkedIn: [vargasjersonprogs](https://linkedin.com/in/vargasjersonprogs)
 **[Portfolio](https://jersonvargas-portfolio.vercel.app)**
 
 ---
-
 ### Ongoing Project
 
 **[TaskFlow](https://github.com/GitJerson/TaskFlow)** 
@@ -36,7 +34,7 @@ Stack: C#, .NET 9, PostgreSQL, JWT, (others implementing soon).
 
 ---
 
-**Completed Projects**
+### Completed Projects
 
 **[School Portal](https://github.com/GitJerson/newPJR)**
 
